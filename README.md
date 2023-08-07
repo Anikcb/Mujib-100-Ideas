@@ -7,7 +7,7 @@
 <img width=600 src="https://github.com/Anikcb/Mujib-100-Ideas/blob/main/Data/Project%20Poster.jpg?raw=true" />
 
 
-## Slection
+## Selection
 **At first, we have selected as one of the Top 100 teams around the country.** After some days the authority send an Email that **our team selected as one of 30 teams and they arrange another contest for these teams**, but unfortunately i lost the email. Here is the email of top 100 selection-
 <p align="left"> 
 <img width=350 src="https://github.com/Anikcb/Mujib-100-Ideas/blob/main/Data/Selected%20Email.jpg?raw=true" alt="anikcb" />
