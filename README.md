@@ -45,7 +45,7 @@
 <img width=600 src="https://github.com/Anikcb/Mujib-100-Ideas/blob/main/Data/Selected%20Team%20List.jpg?raw=true" alt="anikcb" />
 
 ## Invitation
-**They arrange an award-giving ceremony in "Bangabandhu International Conference Center" and invite all of the teams under top 100** 
+An award-giving ceremony was arranged at the **Bangabandhu International Conference Center**, and all teams in the Top 100 were invited to attend.
 <p align="left"> 
 <img width=350 src="https://github.com/Anikcb/Mujib-100-Ideas/blob/main/Data/Invitation.jpg?raw=true" alt="anikcb" />
 <img width=350 src="https://github.com/Anikcb/Mujib-100-Ideas/blob/main/Data/Invitation1.jpg?raw=true" alt="anikcb" />
