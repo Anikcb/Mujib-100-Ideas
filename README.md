@@ -35,7 +35,7 @@
 
 
 ## Selection
-**At first, we have selected as one of the Top 100 teams around the country.** After some days the authority send an Email that **our team selected as one of 30 teams and they arrange another contest for these teams**, but unfortunately i lost the email. Here is the email of top 100 selection-
+**At first, we were selected as one of the Top 100 teams in the country**. A few days later, we received an email notifying us that our team was selected as one of the **Top 30 teams**, and another contest was arranged for these teams. Unfortunately, I lost the email confirming our Top 30 selection. Here is the email confirming our selection into the Top 100-
 <p align="left"> 
 <img width=350 src="https://github.com/Anikcb/Mujib-100-Ideas/blob/main/Data/Selected%20Email.jpg?raw=true" alt="anikcb" />
 <img width=350 src="https://github.com/Anikcb/Mujib-100-Ideas/blob/main/Data/Selected%20Email1.jpg?raw=true" alt="anikcb" />
